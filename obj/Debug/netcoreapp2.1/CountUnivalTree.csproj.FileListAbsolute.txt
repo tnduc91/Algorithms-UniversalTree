@@ -1,0 +1,11 @@
+/Users/duc/Projects/CountUnivalTree/bin/Debug/netcoreapp2.1/CountUnivalTree.deps.json
+/Users/duc/Projects/CountUnivalTree/bin/Debug/netcoreapp2.1/CountUnivalTree.runtimeconfig.json
+/Users/duc/Projects/CountUnivalTree/bin/Debug/netcoreapp2.1/CountUnivalTree.runtimeconfig.dev.json
+/Users/duc/Projects/CountUnivalTree/bin/Debug/netcoreapp2.1/CountUnivalTree.dll
+/Users/duc/Projects/CountUnivalTree/bin/Debug/netcoreapp2.1/CountUnivalTree.pdb
+/Users/duc/Projects/CountUnivalTree/obj/Debug/netcoreapp2.1/CountUnivalTree.csprojAssemblyReference.cache
+/Users/duc/Projects/CountUnivalTree/obj/Debug/netcoreapp2.1/CountUnivalTree.csproj.CoreCompileInputs.cache
+/Users/duc/Projects/CountUnivalTree/obj/Debug/netcoreapp2.1/CountUnivalTree.AssemblyInfoInputs.cache
+/Users/duc/Projects/CountUnivalTree/obj/Debug/netcoreapp2.1/CountUnivalTree.AssemblyInfo.cs
+/Users/duc/Projects/CountUnivalTree/obj/Debug/netcoreapp2.1/CountUnivalTree.dll
+/Users/duc/Projects/CountUnivalTree/obj/Debug/netcoreapp2.1/CountUnivalTree.pdb
